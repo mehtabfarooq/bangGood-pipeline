@@ -1,0 +1,5 @@
+__pycache__/
+db_config.py
+
+.streamlit/
+data/
